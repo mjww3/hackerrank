@@ -1,4 +1,4 @@
-v=#include <cmath>
+#include <cmath>
 #include <cstdio>
 #include <vector>
 #include <iostream>
